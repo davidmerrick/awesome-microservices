@@ -10,7 +10,7 @@
 # Monitoring
 
 * https://prometheus.io 
-* https://github.com/google/cadvisor: Pulls stats from Docker containers.
+* https://github.com/google/cadvisor: Exposes metrics from Docker containers.
 
 # API Development
 
