@@ -1,16 +1,16 @@
 # Distributed Tracing
 
-* http://opentracing.io/
-* http://zipkin.io/
+* http://opentracing.io
+* http://zipkin.io
 
 # Monitoring
 
-* https://prometheus.io: 
+* https://prometheus.io 
 
 # API Development
 
-* http://www.grpc.io/
+* http://www.grpc.io
 
 # Dashboards
 
-* https://grafana.com/
+* https://grafana.com
