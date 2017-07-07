@@ -14,7 +14,8 @@
 
 # API Development
 
-* http://www.grpc.io
+* [gRPC](http://www.grpc.io)
+* [Swagger](https://swagger.io/)
 
 # Dashboards
 
@@ -30,6 +31,7 @@
 
 * https://github.com/Netflix/SimianArmy
 * https://concourse.ci/
+* [Pact.io](http://www.pact.io/): Contract testing framework.
 
 
 # Misc Tools
