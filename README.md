@@ -18,8 +18,15 @@
 
 # Dashboards
 
-* https://grafana.com
+* [Grafana](https://grafana.com)
+
+# Log Aggregation
+
+* [PaperTrail](https://papertrailapp.com)
+* [SumoLogic](https://www.sumologic.com/)
+* [Kibana](https://www.elastic.co/products/kibana/)
 
 # Testing
 
 * https://github.com/Netflix/SimianArmy
+* https://concourse.ci/
