@@ -33,6 +33,8 @@
 * https://concourse.ci/
 * [Pact.io](http://www.pact.io/): Contract testing framework.
 
+### Load Testing
+* [Flood.io](https://flood.io/): Service for running automated load tests at scale.
 
 # Misc Tools
 
