@@ -34,10 +34,14 @@
 * https://concourse.ci/
 * [Pact.io](http://www.pact.io/): Contract testing framework.
 
-### Load Testing
+### Load
 
 * [Gatling](http://gatling.io/)
 * [Flood.io](https://flood.io/): Service for running automated load tests at scale.
+
+### Security
+
+* [OWASP Dependency Check](https://www.owasp.org/index.php/OWASP_Dependency_Check): Utility that identifies project dependencies and checks if there are any known, publicly disclosed, vulnerabilities.
 
 # Misc Tools
 
