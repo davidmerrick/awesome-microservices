@@ -2,16 +2,25 @@
 
 * [Kubernetes](https://kubernetes.io)
 * [Apache Mesos](http://mesos.apache.org/)
+* [Docker Compose](https://docs.docker.com/compose/)
+
+# Docker
+
+* [Kitematic](https://kitematic.com/)
+
+# Topology
+
+* [Hystrix](https://github.com/Netflix/Hystrix): Latency and fault tolerance library designed by Netflix.
 
 # Distributed Tracing
 
-* http://opentracing.io
-* http://zipkin.io
+* [OpenTracing.io](http://opentracing.io)
+* [ZipKin](http://zipkin.io)
 
 # Monitoring
 
-* https://prometheus.io 
-* https://github.com/google/cadvisor: Exposes metrics from Docker containers.
+* [Prometheus](https://prometheus.io)
+* [cAdvisor](https://github.com/google/cadvisor): Exposes metrics from Docker containers.
 
 # API Development
 
@@ -31,8 +40,8 @@
 
 # Testing
 
-* https://github.com/Netflix/SimianArmy
-* https://concourse.ci/
+* [SimianArmy](https://github.com/Netflix/SimianArmy)
+* [Concourse CI](https://concourse.ci/)
 * [Pact.io](http://www.pact.io/): Contract testing framework.
 
 ### Load
@@ -59,5 +68,5 @@
 * [DevOps Handbook](https://www.amazon.com/DevOps-Handbook-World-Class-Reliability-Organizations/dp/1942788002/ref=pd_bxgy_14_img_3?_encoding=UTF8&pd_rd_i=1942788002&pd_rd_r=4DQN1BX7KETRNEVT3H0X&pd_rd_w=4vE3O&pd_rd_wg=QjpsH&psc=1&refRID=4DQN1BX7KETRNEVT3H0X)
 * [Infrastructure as Code](https://www.amazon.com/Infrastructure-Code-Managing-Servers-Cloud/dp/1491924357/ref=sr_1_1?ie=UTF8&qid=1499615005&sr=8-1&keywords=infrastructure+as+code)
 * [Effective DevOps](https://www.amazon.com/Effective-DevOps-Building-Collaboration-Affinity/dp/1491926309/ref=pd_sim_14_1?_encoding=UTF8&pd_rd_i=1491926309&pd_rd_r=4DQN1BX7KETRNEVT3H0X&pd_rd_w=qwzmH&pd_rd_wg=QjpsH&psc=1&refRID=4DQN1BX7KETRNEVT3H0X)
-* [Production Ready Microservices](https://www.amazon.com/Production-Ready-Microservices-Standardized-Engineering-Organization/dp/1491965975/ref=sr_1_1?s=books&ie=UTF8&qid=1499616081&sr=1-1&keywords=production+ready+microservices)
+* [Production-Ready Microservices](https://www.amazon.com/Production-Ready-Microservices-Standardized-Engineering-Organization/dp/1491965975/ref=sr_1_1?s=books&ie=UTF8&qid=1499616081&sr=1-1&keywords=production+ready+microservices)
 * [Building Microservices](https://www.amazon.com/Building-Microservices-Designing-Fine-Grained-Systems/dp/1491950358/ref=sr_1_2?s=books&ie=UTF8&qid=1499616081&sr=1-2&keywords=production+ready+microservices)
