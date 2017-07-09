@@ -47,3 +47,7 @@
 # Misc Tools
 
 * [DotEnv](https://github.com/bkeepers/dotenv): Tool for loading environment variables from .env files.
+
+# Books
+
+* [Release It!](https://pragprog.com/book/mnee/release-it)
