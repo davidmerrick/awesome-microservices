@@ -44,6 +44,10 @@
 
 * [OWASP Dependency Check](https://www.owasp.org/index.php/OWASP_Dependency_Check): Utility that identifies project dependencies and checks if there are any known, publicly disclosed, vulnerabilities.
 
+# DevOps
+
+* [DevOps Topologies](http://web.devopstopologies.com/): Lists DevOps patterns and antipatterns.
+
 # Misc Tools
 
 * [DotEnv](https://github.com/bkeepers/dotenv): Tool for loading environment variables from .env files.
@@ -51,3 +55,7 @@
 # Books
 
 * [Release It!](https://pragprog.com/book/mnee/release-it)
+* [Site Reliability Engineering](https://www.amazon.com/Site-Reliability-Engineering-Production-Systems/dp/149192912X/ref=pd_bxgy_14_img_2?_encoding=UTF8&pd_rd_i=149192912X&pd_rd_r=4DQN1BX7KETRNEVT3H0X&pd_rd_w=4vE3O&pd_rd_wg=QjpsH&psc=1&refRID=4DQN1BX7KETRNEVT3H0X)
+* [DevOps Handbook](https://www.amazon.com/DevOps-Handbook-World-Class-Reliability-Organizations/dp/1942788002/ref=pd_bxgy_14_img_3?_encoding=UTF8&pd_rd_i=1942788002&pd_rd_r=4DQN1BX7KETRNEVT3H0X&pd_rd_w=4vE3O&pd_rd_wg=QjpsH&psc=1&refRID=4DQN1BX7KETRNEVT3H0X)
+* [Infrastructure as Code](https://www.amazon.com/Infrastructure-Code-Managing-Servers-Cloud/dp/1491924357/ref=sr_1_1?ie=UTF8&qid=1499615005&sr=8-1&keywords=infrastructure+as+code)
+* [Effective DevOps](https://www.amazon.com/Effective-DevOps-Building-Collaboration-Affinity/dp/1491926309/ref=pd_sim_14_1?_encoding=UTF8&pd_rd_i=1491926309&pd_rd_r=4DQN1BX7KETRNEVT3H0X&pd_rd_w=qwzmH&pd_rd_wg=QjpsH&psc=1&refRID=4DQN1BX7KETRNEVT3H0X)
