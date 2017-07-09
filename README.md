@@ -17,6 +17,7 @@
 
 * [gRPC](http://www.grpc.io)
 * [Swagger](https://swagger.io/)
+* [Slate](https://github.com/lord/slate): Presentation layer for API docs.
 
 # Dashboards
 
