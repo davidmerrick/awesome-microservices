@@ -11,9 +11,10 @@ A collection of tools and documentation for building microservice architectures.
 * [Kitematic](https://kitematic.com/)
 * [Consul.io](https://www.consul.io/): Distributed service discovery and key-value store commonly used in Docker setups.
 
-# Topology
+# Topology/Infrastructure
 
 * [Hystrix](https://github.com/Netflix/Hystrix): Latency and fault tolerance library designed by Netflix.
+* [Terraform](https://www.terraform.io/): Tool for creating, changing, and improving production infrastructure.
 
 # Distributed Tracing
 
@@ -24,6 +25,8 @@ A collection of tools and documentation for building microservice architectures.
 
 * [Prometheus](https://prometheus.io)
 * [cAdvisor](https://github.com/google/cadvisor): Exposes metrics from Docker containers.
+* [DataDog](https://www.datadoghq.com/)
+* [New Relic](https://newrelic.com/)
 
 # API Development
 
