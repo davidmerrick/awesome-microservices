@@ -5,6 +5,7 @@ A collection of tools and documentation for building microservice architectures.
 * [Kubernetes](https://kubernetes.io)
 * [Apache Mesos](http://mesos.apache.org/)
 * [Docker Compose](https://docs.docker.com/compose/)
+* [Flocker](https://clusterhq.com/flocker/introduction/)
 
 # Docker
 
