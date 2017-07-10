@@ -9,6 +9,7 @@ A collection of tools and documentation for building microservice architectures.
 # Docker
 
 * [Kitematic](https://kitematic.com/)
+* [Consul.io](https://www.consul.io/): Distributed service discovery and key-value store commonly used in Docker setups.
 
 # Topology
 
