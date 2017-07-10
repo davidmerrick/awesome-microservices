@@ -11,6 +11,7 @@ A collection of tools and documentation for building microservice architectures.
 
 * [Kitematic](https://kitematic.com/)
 * [Consul.io](https://www.consul.io/): Distributed service discovery and key-value store commonly used in Docker setups.
+* [Kompose](http://blog.kubernetes.io/2016/11/kompose-tool-go-from-docker-compose-to-kubernetes.html): Tool for transforming docker-compose configs into Kubernetes manifests.
 
 # Topology/Infrastructure
 
@@ -47,8 +48,8 @@ A collection of tools and documentation for building microservice architectures.
 
 # Testing
 
-* [SimianArmy](https://github.com/Netflix/SimianArmy)
-* [Concourse CI](https://concourse.ci/)
+* [SimianArmy](https://github.com/Netflix/SimianArmy): A set of tools developed by Netflix for chaos testing.
+* [Concourse CI](https://concourse.ci/): Container-oriented CI.
 * [Pact.io](http://www.pact.io/): Contract testing framework.
 
 ### Load
