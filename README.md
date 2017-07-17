@@ -18,6 +18,10 @@ A collection of tools and documentation for building microservice architectures.
 * [Hystrix](https://github.com/Netflix/Hystrix): Latency and fault tolerance library designed by Netflix.
 * [Terraform](https://www.terraform.io/): Tool for creating, changing, and improving production infrastructure.
 
+# Queues
+
+* [queues.io](http://queues.io/): List of services for handling queues.
+
 # Distributed Tracing
 
 * [OpenTracing.io](http://opentracing.io)
