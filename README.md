@@ -10,6 +10,7 @@ A collection of tools and documentation for building microservice architectures.
 # Design
 
 * [12-Factor App](https://12factor.net/): Very popular methodology for building software-as-a-service apps.
+* [Robustness Principle](https://en.wikipedia.org/wiki/Robustness_principle): "Be conservative in what you send, be liberal in what you accept."
 
 # Docker
 
