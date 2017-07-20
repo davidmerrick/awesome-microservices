@@ -21,8 +21,8 @@ A collection of tools and documentation for building microservice architectures.
 
 ## Container registries
 
-* [https://quay.io/](Quay)
-* [https://hub.docker.com/](Docker Hub)
+* [Quay.io](https://quay.io/)
+* [Docker Hub](https://hub.docker.com/)
 
 # Topology/Infrastructure
 
