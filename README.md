@@ -28,6 +28,7 @@ A collection of tools and documentation for building microservice architectures.
 # Kubernetes
 
 * [The Children's Illustrated Guide to Kubernetes](https://deis.com/blog/2016/kubernetes-illustrated-guide/)
+* [Kops](https://github.com/kubernetes/kops)
 
 # Topology/Infrastructure
 
