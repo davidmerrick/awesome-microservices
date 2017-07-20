@@ -25,6 +25,10 @@ A collection of tools and documentation for building microservice architectures.
 * [Quay.io](https://quay.io/)
 * [Docker Hub](https://hub.docker.com/)
 
+# Kubernetes
+
+* [The Children's Illustrated Guide to Kubernetes](https://deis.com/blog/2016/kubernetes-illustrated-guide/)
+
 # Topology/Infrastructure
 
 * [Hystrix](https://github.com/Netflix/Hystrix): Latency and fault tolerance library designed by Netflix.
