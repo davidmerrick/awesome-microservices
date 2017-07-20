@@ -13,9 +13,14 @@ A collection of tools and documentation for building microservice architectures.
 
 # Docker
 
+## Tools
 * [Kitematic](https://kitematic.com/)
 * [Consul.io](https://www.consul.io/): Distributed service discovery and key-value store commonly used in Docker setups.
 * [Kompose](http://blog.kubernetes.io/2016/11/kompose-tool-go-from-docker-compose-to-kubernetes.html): Tool for transforming docker-compose configs into Kubernetes manifests.
+
+## Container registries
+* [https://quay.io/](Quay)
+* [https://hub.docker.com/](Docker Hub)
 
 # Topology/Infrastructure
 
