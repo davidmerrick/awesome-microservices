@@ -67,6 +67,7 @@ A collection of tools and documentation for building microservice architectures.
 * [PaperTrail](https://papertrailapp.com)
 * [SumoLogic](https://www.sumologic.com/)
 * [Kibana](https://www.elastic.co/products/kibana/)
+* [LogDNA](https://logdna.com/)
 
 # Testing
 
