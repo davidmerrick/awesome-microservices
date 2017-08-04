@@ -66,8 +66,9 @@ A collection of tools and documentation for building microservice architectures.
 
 * [PaperTrail](https://papertrailapp.com)
 * [SumoLogic](https://www.sumologic.com/)
-* [Kibana](https://www.elastic.co/products/kibana/)
+* [Kibana](https://www.elastic.co/products/kibana/): The "K" in ELK stack.
 * [LogDNA](https://logdna.com/)
+* [InfluxDB](https://www.influxdata.com/time-series-platform/): (aka TICK stack)
 
 # Testing
 
