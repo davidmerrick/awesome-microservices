@@ -76,6 +76,7 @@ A collection of tools and documentation for building microservice architectures.
 * [SimianArmy](https://github.com/Netflix/SimianArmy): A set of tools developed by Netflix for chaos testing.
 * [Concourse CI](https://concourse.ci/): Container-oriented CI.
 * [Pact.io](http://www.pact.io/): Contract testing framework.
+* [CusterRunner](http://www.clusterrunner.com/): Massively parallel test runner.
 
 ### Load
 
